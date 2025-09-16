@@ -1,5 +1,6 @@
 # Data-Scientist-Udacity-Project1
 (Owned by Ms. Chingmuankim Naulak)
+
 Based on the 2025 Stack Overflow Developer Survey, the following is the Sales Analysis Report
 #  Developer Salary Prediction – 2025 Stack Overflow Survey
 
