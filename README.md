@@ -28,7 +28,7 @@ This project was developed in Python with the following key libraries:
 ---
 
 ## Repository Contents
-- **notebooks/analysis.ipynb**  
+- **notebooks/SalesAnalysis.ipynb**  
   Main Jupyter Notebook containing data exploration, cleaning, modeling, and evaluation with explanatory comments.
 
 - **data/survey_results_public.csv**  
