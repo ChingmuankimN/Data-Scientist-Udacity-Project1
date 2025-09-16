@@ -31,7 +31,7 @@ This project was developed in Python with the following key libraries:
 - **notebooks/SalesAnalysis.ipynb**  
   Main Jupyter Notebook containing data exploration, cleaning, modeling, and evaluation with explanatory comments.
 
-- **data/survey_results_public.csv**  
+- **data/survey_results_public.csv** (Due to large size of the data, this dataset can't be uploaded in this github repo)
   Raw survey responses (as provided by Stack Overflow).
 
 - **data/survey_results_schema.csv**  
