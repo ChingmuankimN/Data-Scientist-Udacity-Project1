@@ -66,11 +66,11 @@ This project was developed in Python with the following key libraries:
 
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 - Dataset: [Stack Overflow Developer Survey 2025](https://insights.stackoverflow.com/survey)  
 - Tools: Python, Jupyter, and the open-source data science community  
 - Inspiration: CRISP-DM methodology for structured data science projects  
 
 
 
-✨ *This project demonstrates the end-to-end data science workflow: exploring raw survey data, cleaning it, building predictive models, evaluating them, and communicating actionable insights to both technical and non-technical audiences.*
+*This project demonstrates the end-to-end data science workflow: exploring raw survey data, cleaning it, building predictive models, evaluating them, and communicating actionable insights to both technical and non-technical audiences.*
