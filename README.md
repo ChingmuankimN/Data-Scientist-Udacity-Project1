@@ -12,7 +12,7 @@ The goal of this project is to explore the **2025 Stack Overflow Developer Surve
 - Can we build a model to predict compensation from survey responses?  
 - What insights can be communicated to both technical and non-technical stakeholders?  
 
-By following the **CRISP-DM process**, we move from data exploration → cleaning → modeling → evaluation → communication.
+By following the **CRISP-DM process**, we move from Business Understanding  →  data exploration → cleaning → modeling → evaluation → communication.
 
 ---
 
