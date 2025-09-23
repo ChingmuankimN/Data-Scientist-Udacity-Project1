@@ -15,16 +15,22 @@ When the model was asked to extract Top 15 drivers of Salary, the following four
  - Programming Languages: Developers who reported using modern languages like Python, TypeScript, or Go were associated with higher pay than those sticking to older stacks.
 
 Experience in coding and Geography set the baseline, while skill choices (languages, AI use) can give developers a competitive edge.
-Digging Deeper into the Data: Uncovering creative Insights
+
+
+## Digging Deeper into the Data: Uncovering creative Insights
 Developers who reported using AI tools earned more, but some also reported lower satisfaction. Productivity gains may come with new frustrations.
 Developers combining Python + TypeScript consistently reported higher salaries than those specializing in just one language. Versatility is rewarded.
-Performance of the Model: How accurate does it predict?
+
+
+## Performance of the Model: How accurate does it predict?
 The experimental result shows about 25% of the variance are in developers' salaries which is not so good. The RMSE measures the average error in predictions. Result shows that model is able to capture few meaningful patterns, leaving a room for improvement. Performance can be boosted by:
 - Adding more features (e.g., job role, education level, company type)
 - Using feature engineering (e.g., grouping countries by income level)
 - Trying more advanced models or tuning hyperparameters.
-While an Accuracy of ~69% is obtained, which means the model correctly predicts job satisfaction for about 69% of the test cases and F10 of ~80%. It means the model has a good balance of precision and recall for the positive class (those marked as "satisfied"). The F1 score being higher than accuracy suggests the model is good at finding the positives.
-Hypothetical Scenario : Using a What-if?
+
+While an Accuracy of **~69% is obtained, which means the model correctly predicts job satisfaction for about 69% of the test cases and F10 of **~80%. It means the model has a good balance of precision and recall for the positive class (those marked as "satisfied"). The F1 score being higher than accuracy suggests the model is good at finding the positives.
+
+## Hypothetical Scenario : Using a What-if?
 Developers from two different locations are compared to see the salary impact with the same level of experience. The result shows quite a low wage for a person living in India with an experience of 5 years than a person in the U.S.
 Conclusion:
 While Experience and Geography tops the list in key factors that drives Developers' Salary, the data also confirms that it is not necessary to switch locations, you can change the tools you learn and the technologies you adopt, that can pay off big for enhancing the salary. Skilled individuals of around 5–20 years of experience are found to be most highly recruited with few senior developers'. This data may help both individuals and HR's in selection and recruitment procedures.
