@@ -28,11 +28,11 @@ The experimental result shows about 25% of the variance are in developers' salar
 - Using feature engineering (e.g., grouping countries by income level)
 - Trying more advanced models or tuning hyperparameters.
 
-While an Accuracy of **~69% is obtained, which means the model correctly predicts job satisfaction for about 69% of the test cases and F10 of **~80%. It means the model has a good balance of precision and recall for the positive class (those marked as "satisfied"). The F1 score being higher than accuracy suggests the model is good at finding the positives.
+While an Accuracy of **~69%** is obtained, which means the model correctly predicts job satisfaction for about 69% of the test cases and F10 of **~80%**. It means the model has a good balance of precision and recall for the positive class (those marked as "satisfied"). The F1 score being higher than accuracy suggests the model is good at finding the positives.
 
 ## Hypothetical Scenario : Using a What-if?
 Developers from two different locations are compared to see the salary impact with the same level of experience. The result shows quite a low wage for a person living in India with an experience of 5 years than a person in the U.S.
-Conclusion:
+
+## Conclusion:
 While Experience and Geography tops the list in key factors that drives Developers' Salary, the data also confirms that it is not necessary to switch locations, you can change the tools you learn and the technologies you adopt, that can pay off big for enhancing the salary. Skilled individuals of around 5–20 years of experience are found to be most highly recruited with few senior developers'. This data may help both individuals and HR's in selection and recruitment procedures.
-This post is part of a data science project following the CRISP-DM process. Full code, notebook, and details are available on my GitHub.
-Keep exploring!
+
