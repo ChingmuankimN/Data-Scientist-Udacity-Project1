@@ -40,7 +40,7 @@ This project was developed in Python with the following key libraries:
 - **README.md**  
   This file. Describes project motivation, structure, results, and acknowledgments.
 
-- **blog_post.md**  
+- **blogpost.md**  
   A blog-style write-up with non-technical explanations and visuals, designed for a wider audience.
 
 
