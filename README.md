@@ -46,9 +46,9 @@ This project was developed in Python with the following key libraries:
 
 
 ##  Summary of Analysis & Results
-1. **Most Important Features**  
-   - **Country** – regional differences dominate salary predictions.  
-   - **Years of Coding Experience** – more years generally correlate with higher compensation.  
+1. **Most Important Features**
+   - **Years of Coding Experience** – more years generally correlate with higher compensation and dominates salary prediction.  
+   - **Country** – regional differences stood the second in salary predictions for the U.S.  
    - **Languages Worked With** – using Python, TypeScript, Go, or Rust increases salary potential.  
    - **AI Tool Usage** – regular use of AI coding assistants is associated with higher salaries.  
    - **Work Hours** – only a minor effect; working 60+ hours doesn’t guarantee more pay.
@@ -59,11 +59,11 @@ This project was developed in Python with the following key libraries:
    - Language combinations (e.g., Python + TypeScript) outperform single-language profiles.
 
 3. **Model Accuracy**  
-   - **R² (log compensation):** ≈ 0.60  
-   - **RMSE (original units):** ≈ $20,000–25,000  
-   → Good at capturing trends across groups, less precise for individual prediction.
+   - **R² (log compensation):** ≈ 0.2521097875811422
+   - **RMSE (original units):** ≈   1.343618103425782
+   → Able to capture trends across groups, room for improvement.
 
-4. **Creative Scenario**  
+54 **Creative Scenario**  
    - A **5-year experienced developer in India**, working 40 hours/week with **Python + TypeScript** and **AI tools**, is predicted to earn **~$X USD/year**, about 20–30% above the regional average.
 
 
