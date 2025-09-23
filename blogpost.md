@@ -1,16 +1,18 @@
-## Compensation Analytics for Workforce Optimization
+# Compensation Analytics for Workforce Optimization
 Using 2025 Stack Overflow Survey Data, this study aims to uncover insights and patterns on the key factors that drives Developers' Job and Salary Satisfaction to help companies and individuals make better decisions in the hiring process and the compensation offer to attract more competent employees. To discover this valuable information, a study has been conducted using machine learning model following CRISP-DM process in analyzing the data. The study conducted are as below:
-Exploring key drivers:
+
+## Exploring key drivers:
 1. What are the most important features of the dataset, and how do they drive developers' salaries?
 2. What unusual or creative insights can we uncover from the survey data?
 3. How accurate is a machine learning model at predicting salaries from this information?
 4. What happens in a "what-if" scenario - if we create a hypothetical developer profile, what salary would the model predict?
-Key drivers of Developers' Salaries: What Matters Most?
+
+## Key drivers of Developers' Salaries: What Matters Most?
 When the model was asked to extract Top 15 drivers of Salary, the following four features stood out as the strongest drivers of salary:
-Years of Coding: Years of coding has the biggest influence. More years generally means higher compensation, though the effect levels off after about 20 years. Fig. 2 shows a histogram that is skewed towards the right, suggesting that most developers have approximately 20 years of experience in coding. The peak appears around 10 years. After 20 years, the count declines steadily, with relatively few developers reporting more than 40 years of coding experience. This suggests the developer population is concentrated in the early to mid-career range, with far fewer very senior professionals.
-Country: Location has the second biggest influence. Developers in the U.S. tend to earn significantly more than those in emerging markets.
-AI Tool Usage: Those who embrace AI assistants or machine learning in their workflows often earn more, showing a "skills premium" for early adopters.
-Programming Languages: Developers who reported using modern languages like Python, TypeScript, or Go were associated with higher pay than those sticking to older stacks.
+ - Years of Coding: Years of coding has the biggest influence. More years generally means higher compensation, though the effect levels off after about 20 years. Fig. 2 shows a histogram that is skewed towards the right, suggesting that most developers have approximately 20 years of experience in coding. The peak appears around 10 years. After 20 years, the count declines steadily, with relatively few developers reporting more than 40 years of coding experience. This suggests the developer population is concentrated in the early to mid-career range, with far fewer very senior professionals.
+ - Country: Location has the second biggest influence. Developers in the U.S. tend to earn significantly more than those in emerging markets.
+ - AI Tool Usage: Those who embrace AI assistants or machine learning in their workflows often earn more, showing a "skills premium" for early adopters.
+ - Programming Languages: Developers who reported using modern languages like Python, TypeScript, or Go were associated with higher pay than those sticking to older stacks.
 
 Experience in coding and Geography set the baseline, while skill choices (languages, AI use) can give developers a competitive edge.
 Digging Deeper into the Data: Uncovering creative Insights
