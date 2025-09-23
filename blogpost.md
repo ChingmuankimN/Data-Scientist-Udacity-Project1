@@ -1,3 +1,4 @@
+## Compensation Analytics for Workforce Optimization
 Using 2025 Stack Overflow Survey Data, this study aims to uncover insights and patterns on the key factors that drives Developers' Job and Salary Satisfaction to help companies and individuals make better decisions in the hiring process and the compensation offer to attract more competent employees. To discover this valuable information, a study has been conducted using machine learning model following CRISP-DM process in analyzing the data. The study conducted are as below:
 Exploring key drivers:
 1. What are the most important features of the dataset, and how do they drive developers' salaries?
